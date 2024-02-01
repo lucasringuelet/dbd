@@ -1,0 +1,26 @@
+Clase 1-1
+
+Conceptos basicos de BD:
+	-Definicion: 
+		Que es una base de datos? 
+		se puede dar 3 definiciones:
+		-Es una coleccion de datos relacionados(si no estan relacionados, no lo es)
+		-Coleccion de archivos diseñados para servir a multiples aplicaciones
+		-Datos registrables interrelacionados entre si.
+	-Propiedades:
+		-Una DB representa aspectos del mundo real.
+		-Los datos guardados en la BD tiene que tener coherencia entre si, no estar alojados aleatoriamente.
+		-Una BD tiene un proposito especifico, Fue creada para un grupo de usuarios en concreto.
+		-Una BD esta sustentada fisicamente en archivos(voy a tener todas las caracteristicas vistas en fod) y sera guardada en discos
+
+	-Que es un DBMS(data base management system)?
+		-Es una coleccion de programas que permiten a los usuarios crear y mantener la BD.
+		-Es un sistema de software que facilita los procesos de definicion, construccion y manipulacion de DB.
+		Objetivos:
+			-evitar redundancia
+			-permitir acceso a los datos en todo momento
+			-controlar la concurrencia
+			-controlar quien accede a los datos
+			-integridad en los datos
+			-backups
+			 
